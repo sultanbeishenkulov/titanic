@@ -1,4 +1,3 @@
-# titanic
 # Titanic: Machine Learning from Disaster
 This repository contains code and resources for the Titanic Kaggle competition, where the goal is to predict passenger survival aboard the Titanic based on passenger data (such as age, sex, passenger class, etc.).
 
